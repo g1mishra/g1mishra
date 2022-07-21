@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, I'm [Jeevan Kumar!](https://github.com/g1mishra) 👋
 
-- 🤵 I’m Jeevan Kumar
 - 👀 I’m interested in Coding, Teaching etc..
 - 🌱 I’m currently learning "Blockchain Development"
 
