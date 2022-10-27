@@ -22,7 +22,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=g1mishra">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=g1mishra&count_private=true&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=g1mishra&hide=php">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1mishra&hide=php" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=g1mishra">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1mishra"/>
 </a>
 </div>
