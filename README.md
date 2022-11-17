@@ -1,4 +1,4 @@
-## Hello world 👋 I'm [Jeevan Kumar!](https://github.com/g1mishra) 
+## Hello world 👋 I'm [Jeevan Kumar!](https://g1mishra.dev/about-me)
 ![](https://visitor-badge.laobi.icu/badge?page_id=g1mishra.g1mishra) [![Github](https://img.shields.io/github/followers/g1mishra?label=Followers&logo=Github)](https://github.com/g1mishra)
 
 - 👀 I’m interested in Coding, Teaching etc..
