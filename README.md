@@ -8,7 +8,7 @@
 ## :handshake: Connect with me:
 
 <a href="https://www.linkedin.com/in/g1mishra/" target="_blank">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/g1_mishra/" target="_blank">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/g1mishra.dev/" target="_blank">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.youtube.com/checktolearn" target="_blank">![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 
