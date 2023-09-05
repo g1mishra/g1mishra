@@ -1,7 +1,7 @@
 ## Hello world 👋 I'm [Jeevan Kumar!](https://g1mishra.dev/about-me)
 ![](https://visitor-badge.laobi.icu/badge?page_id=g1mishra.g1mishra) [![Github](https://img.shields.io/github/followers/g1mishra?label=Followers&logo=Github)](https://github.com/g1mishra)
 
-A passionate full-stack web developer with over 2.5 years of experience in building modern and user-friendly web applications. I specialize in JavaScript, React.js, Next.js, Node.js, and Python, and I am always eager to learn new technologies and best practices to improve my skills and projects.
+A passionate full-stack web developer with over 3 years of experience in building modern and user-friendly web applications. My expertise lies in JavaScript, React.js, Next.js, Node.js, and Python. I am always eager to learn new technologies and best practices to improve my skills and projects.
 
 In addition to my technical expertise, I am also a dedicated educator and content creator, and I love sharing my knowledge and insights on web development through my YouTube channel and blog.
 
