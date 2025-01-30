@@ -3,12 +3,12 @@
 
 I'm a seasoned front-end-heavy full-stack developer with over 4 years of extensive experience in both front-end and back-end technologies. I'm passionate about building modern and user-friendly web applications, always eager to learn new technologies and best practices to improve my skills and projects.
 
-## 🚀 Quick Overview
-- 🔭 Currently working as a Next.js Developer at EXPIA
-- 🌱 Constantly learning and improving my skills in React, Next.js, and full-stack development
-- 👨‍🏫 Dedicated educator and content creator on [YouTube](https://youtube.com/@codingwithjeevan)
-- 🏆 Awarded 'Hero of the Month' at Intellemo.AI for outstanding contributions
-- 💼 Founder of [ByteEat.in](https://byteeat.in) (Side Hustle)
+## 🚀 Quick Overview  
+- 🚀 **Founder** of [quire.in](https://quire.in) (*AI-powered language learning app – Beta Stage!*)  
+- 🌱 **Deep diving** into React, Next.js, & AI/ML integrations  
+- 👨🏫 **Teaching coding** on [YouTube](https://youtube.com/@codingwithjeevan) (5k+ subs)  
+- 🏆 **Awarded** "Hero of the Month" @ Intellemo.AI for innovative problem-solving  
+- 💡 **Past Venture**: [ByteEat.in](https://byteeat.in) (*Pivoted → lessons applied to quire.in*)  
 
 ## 💼 Experience
 - Next.js Developer at EXPIA (2023 - Present)
@@ -21,9 +21,11 @@ I'm a seasoned front-end-heavy full-stack developer with over 4 years of extensi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React-Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastApi](https://img.shields.io/badge/-FastApi-009485?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
