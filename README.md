@@ -2,7 +2,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=g1mishra.g1mishra) [![Github](https://img.shields.io/github/followers/g1mishra?label=Followers&logo=Github)](https://github.com/g1mishra)
 
-High-agency full-stack dev who loves turning ideas into real products. Currently working at Buildship as a Software Engineer, and building [quire.in](https://quire.in) in my free time — an AI-powered language learning app.
+High-agency, experienced software developer skilled in full-stack and applied AI development. Passionate about building scalable systems and user-focused products. Seeking opportunities to contribute as a Senior Software Developer in a
+collaborative and growth-oriented environment.
 
 ## 🛠 What I'm About
 - 🔍 Front-end heavy with React, Next.js, TypeScript, Tailwind
